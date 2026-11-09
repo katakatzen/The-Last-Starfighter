@@ -177,13 +177,6 @@ No hace falta modificar `MotorJuego` ni `Gestor_Combate`.
 
 ---
 
-## Integrantes
-
-**Grupo 11**
-
-- [katakatzen](https://github.com/katakatzen)
-- [lautaro9555](https://github.com/lautaro9555)
-- [MarcosBonetto](https://github.com/MarcosBonetto)
 
 ---
 
