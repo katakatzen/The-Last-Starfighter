@@ -2,7 +2,7 @@
 
 # The Last Starfighter
 
-Juego de naves 2D de desplazamiento horizontal hecho en **Java + Swing**, desarrollado como Trabajo Final de **Programación Orientada a Objetos** (Grupo 11).
+Juego Retro de naves  de desplazamiento horizontal hecho en **Java + Swing**, desarrollado como Trabajo Final de **Programación Orientada a Objetos**.
 
 Controlás una nave que tiene que sobrevivir a oleadas de enemigos cada vez más difíciles, juntar power-ups y conseguir el mejor puntaje para entrar al **ranking top 5**, que se guarda en una base de datos SQLite.
 
